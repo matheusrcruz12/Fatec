@@ -1,0 +1,11 @@
+br/gov/sp/fatec/lab5/repository/FaculdadeRepository.class
+br/gov/sp/fatec/lab5/repository/CursoRepository.class
+br/gov/sp/fatec/lab5/model/Materia.class
+br/gov/sp/fatec/lab5/repository/MateriaRepository.class
+br/gov/sp/fatec/lab5/App.class
+br/gov/sp/fatec/lab5/service/FaculdadeServiceImpl.class
+br/gov/sp/fatec/lab5/model/Faculdade.class
+br/gov/sp/fatec/lab5/service/CursoServiceImpl.class
+br/gov/sp/fatec/lab5/model/Curso.class
+br/gov/sp/fatec/lab5/service/CursoService.class
+br/gov/sp/fatec/lab5/service/FaculdadeService.class

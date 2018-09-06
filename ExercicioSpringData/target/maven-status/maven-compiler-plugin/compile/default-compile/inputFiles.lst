@@ -1,0 +1,11 @@
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/model/Curso.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/repository/MateriaRepository.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/model/Faculdade.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/service/FaculdadeService.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/service/FaculdadeServiceImpl.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/service/CursoServiceImpl.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/service/CursoService.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/repository/CursoRepository.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/model/Materia.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/repository/FaculdadeRepository.java
+/home/java/eclipse-workspace/springDataJpaEx/ExercicioSpringData/src/main/java/br/gov/sp/fatec/lab5/App.java
